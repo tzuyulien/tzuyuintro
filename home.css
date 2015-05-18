@@ -9,7 +9,8 @@ body {
 	width:1000px;
 	height:500px;
 	padding-left:500px; /*左邊留白10*/
-	font align="right";
+	font align="left";
+	float:right;
 	
 }
 
