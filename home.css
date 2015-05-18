@@ -1,9 +1,8 @@
 body {
-	background-image:url(IMG_0538.JPG);	/*body背景圖片*/
 	background-repeat: repeat;	/*body背景圖片重複*/
 	font-size:14px;
 	color:white;
-}
+} 
 
 #Header {
 	margin:0 auto;
