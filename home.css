@@ -22,7 +22,7 @@ body {
 
 
 #Content {
-	margin:0 auto;
+	margin:100 auto;
 	float:left;	/*Content靠左貼齊*/
 	width:400px;	/*Content寬度*/
 }
