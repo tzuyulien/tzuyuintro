@@ -4,11 +4,11 @@ body {
 	color:white;
 } 
 
-#Header {
+#Self {
 	margin:0 auto;
 	width:200px;
 	height:90px;
-	padding-left:10px; /*左邊留白10*/
+	padding-left:500px; /*左邊留白10*/
 	font align="left"
 	
 }
