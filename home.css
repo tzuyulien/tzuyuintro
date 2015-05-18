@@ -1,0 +1,29 @@
+body {
+	background-image:url(IMG_0538.JPG);	/*body背景圖片*/
+	background-repeat: repeat;	/*body背景圖片重複*/
+	font-size:14px;
+	color:white;
+}
+
+#Header {
+	margin:0 auto;
+	width:200px;
+	height:90px;
+	padding-left:10px; /*左邊留白10*/
+	font align="left"
+	
+}
+
+
+#Wrapper {
+	margin:0 auto;
+	width:800px;
+	padding:0 10px;
+}
+
+
+#Content {
+	margin:0 auto;
+	float:left;	/*Content靠左貼齊*/
+	width:400px;	/*Content寬度*/
+}
