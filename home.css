@@ -3,11 +3,23 @@ nav{
 	font-family: 'Amatic SC', cursive;
 	font-size:32px;
 	font-weight: bold;
+}
 
 
+a:link {
+    color: #b2d0dd;
+}
 
+a:visited {
+    color: #057491;
+}
 
+a:hover {
+    text-decoration: underline;
+}
 
+a:active {
+    text-decoration: underline;
 }
 
 
@@ -86,7 +98,7 @@ h3 {font-family: 'Amatic SC', cursive;
 	display: inline;
                 margin: 5px;
                 padding: 10px;
-                border: 1px solid #45a9cd;
+                border: 1px solid #b2d0dd;
 }
 
 
