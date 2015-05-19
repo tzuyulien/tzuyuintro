@@ -1,13 +1,13 @@
 body {
 	background-repeat: repeat;	/*body背景圖片重複*/
 	font-size:14px;
-	color:white;
-	background-repeat: url("pic/fishMove.gif");
+	color: rgba(255,255,255,10);
+/*	background-repeat: url("pic/fishMove.gif");*/
 } 
 
 .container {
 	text-align:left;
-	
+
 }
 
 
@@ -15,10 +15,58 @@ body {
 	text-align:center;
 	margin:0px auto;
 	font-size:18px;
+}
+
+#content-body{
+	margin:0px auto;
+	background-color: rgba(144,185,210,80);
+	padding: 20px;
+
+	
+  /*  background-image: url("pic/b1.png");
+    background-repeat: no-repeat;
+	/*44a8cc  45a9cd*/
+}
+
+ div.img {
+                margin: 5px;
+                padding: 20px;
+                border: 1px solid #90b9d2;
+                height: auto;
+                width: auto;
+                float: left;
+                text-align: center;
+            }
+
+            div.img img {
+                display: inline;
+                margin: 5px;
+                border: 1px solid #ffffff;
+            }
+
+            div.img a:hover img {
+                border:1px solid #45a9cd;
+            }
+
+            div.desc {
+                text-align: center;
+                font-weight: normal;
+                width: 120px;
+                margin: 5px;
+            }
 
 
 
 
+#sidebar{
+	margin:0px auto;
+	background-color: rgba(0,143,180,20);
+	padding: 20px;
+
+	
+  /*  background-image: url("pic/b1.png");
+    background-repeat: no-repeat;
+	/*44a8cc  45a9cd*/
 }
 
 
@@ -27,6 +75,17 @@ body {
 	width:800px;
 	padding:0 10px;
 }
+
+.footer {
+	text-align:center;
+
+}
+
+#m2{
+	float: right;
+
+}
+
 
 
 #Content {
