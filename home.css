@@ -2,18 +2,23 @@ body {
 	background-repeat: repeat;	/*body背景圖片重複*/
 	font-size:14px;
 	color:white;
+	background-repeat: url("pic/fishMove.gif");
 } 
 
-#sidebar {
-	margin:100 auto;
-	width:1000px;
-	height:500px;
-	padding-left:400px; /*左邊留白10ont align="left"
-	float:right;*/
-	background-image: url(http://tzuyulien.github.io/tzuyuintro/pic/b1.png);
-
- 	f
+.container {
+	text-align:left;
 	
+}
+
+
+.nav{
+	text-align:center;
+	margin:0px auto;
+	font-size:18px;
+
+
+
+
 }
 
 
