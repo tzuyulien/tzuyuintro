@@ -5,13 +5,14 @@ body {
 } 
 
 #Self {
-	margin:0 auto;
+	margin:20 auto;
 	width:1000px;
 	height:500px;
-	padding-left:500px; /*左邊留白10*/
-	background-image:url(http://tzuyulien.github.io/tzuyuintro/pic/b1.png);
-/*	font align="left"
+	padding-left:400px; /*左邊留白10ont align="left"
 	float:right;*/
+	background-image: url(http://tzuyulien.github.io/tzuyuintro/pic/b1.png;)
+
+ 	f
 	
 }
 
