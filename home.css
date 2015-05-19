@@ -2,6 +2,7 @@ body {
 	background-repeat: repeat;	/*body背景圖片重複*/
 	font-size:14px;
 	color: rgba(255,255,255,10);
+	font-family: 'Oswald', Arial;
 /*	background-repeat: url("pic/fishMove.gif");*/
 } 
 
@@ -19,7 +20,7 @@ body {
 
 #content-body{
 	margin:0px auto;
-	background-color: rgba(144,185,210,80);
+	/*background-color: rgba(144,185,210,80);*/
 	padding: 20px;
 
 	
@@ -60,7 +61,7 @@ body {
 
 #sidebar{
 	margin:0px auto;
-	background-color: rgba(0,143,180,20);
+	/*background-color: rgba(0,143,180,20);*/
 	padding: 20px;
 
 	
