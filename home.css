@@ -1,13 +1,39 @@
+nav{
+	text-align:left;
+	font-family: 'Amatic SC', cursive;
+	font-size:32px;
+	font-weight: bold;
+
+
+
+
+
+}
+
+
 body {
 	background-repeat: repeat;	/*body背景圖片重複*/
 	font-size:14px;
 	color: rgba(255,255,255,10);
 	font-family: 'Oswald', sans-serif;
+	font-family: 'Amatic SC', cursive;
+
 /*	background-repeat: url("pic/fishMove.gif");*/
 } 
 
+hr {border-color: #057491;
+
+}
+
+h3 {font-family: 'Amatic SC', cursive;
+	font-size:54px;
+	font-weight: bold;
+
+}
+
 .container {
-	text-align:left;
+	font-family: 'Quicksand', sans-serif;
+	text-align:center;
 
 }
 
@@ -35,7 +61,7 @@ body {
                 border: 1px solid #90b9d2;
                 height: auto;
                 width: auto;
-                float: left;
+                float: right;
                 text-align: center;
             }
 
@@ -56,13 +82,19 @@ body {
                 margin: 5px;
             }
 
-
+#tzuyu{
+	display: inline;
+                margin: 5px;
+                padding: 10px;
+                border: 1px solid #45a9cd;
+}
 
 
 #sidebar{
-	margin:0px auto;
+	margin:10px auto;
+	text-align:center;
+
 	/*background-color: rgba(0,143,180,20);*/
-	padding: 20px;
 
 	
   /*  background-image: url("pic/b1.png");
