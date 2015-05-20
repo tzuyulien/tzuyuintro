@@ -73,7 +73,9 @@ h3 {font-family: 'Amatic SC', cursive;
                 border: 1px solid #90b9d2;
                 height: auto;
                 width: auto;
-                float: right;
+                float: left;
+ 				position:  relative;
+ 				left: 5%;
                 text-align: center;
             }
 
@@ -121,14 +123,25 @@ h3 {font-family: 'Amatic SC', cursive;
 	padding:0 10px;
 }
 
-.footer {
+/*.footer {
 	text-align:center;
 
+}*/
+
+#f1{
+	position: absolute;
+	z-index:2;
+	left:0%;
+	text-align:left;
 }
 
-#m2{
-	float: right;
 
+#f2{
+	position: absolute;
+	/*top: 1800px;*/
+	top: 1800px;
+	left: 60%;
+	z-index:1;
 }
 
 
