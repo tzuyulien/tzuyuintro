@@ -7,7 +7,7 @@ nav{
 
 
 a:link {
-    color: #b2d0dd;
+    color: #ffffff;
 }
 
 a:visited {
@@ -24,8 +24,8 @@ a:active {
 
 
 body {
-	background-repeat: repeat;	/*body背景圖片重複*/
-	font-size:14px;
+	background-repeat: repeat;	/*body背景圖片重複 #b2d0dd*/
+	font-size:15px;
 	color: rgba(255,255,255,10);
 	font-family: 'Oswald', sans-serif;
 	font-family: 'Amatic SC', cursive;
@@ -62,7 +62,7 @@ h3 {font-family: 'Amatic SC', cursive;
 	padding: 20px;
 
 	
-  /*  background-image: url("pic/b1.png");
+    background-image: url("pic/b3.png");
     background-repeat: no-repeat;
 	/*44a8cc  45a9cd*/
 }
@@ -77,6 +77,9 @@ h3 {font-family: 'Amatic SC', cursive;
  				position:  relative;
  				left: 5%;
                 text-align: center;
+
+    			background-image: url("pic/b3.png");
+   				background-repeat: no-repeat;
             }
 
             div.img img {
@@ -144,6 +147,11 @@ h3 {font-family: 'Amatic SC', cursive;
 	z-index:1;
 }
 
+#footer{
+    background-image: url("pic/b2.png");
+    background-repeat: no-repeat;
+
+}
 
 
 #Content {
